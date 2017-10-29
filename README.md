@@ -21,7 +21,9 @@ Two ways for calculating similarity scores
 * Applying more sophisticated similarities score methods to improve the suggestions.
 * Write a function to precompute user similarities, and alter the recommendation code to use only the top five other users to get recommendations.
 
-
+### ***Link for Output*** 
+---
+>https://www.kaggle.com/tushar987/recommender-system
 
 
 ### ***Citation***
